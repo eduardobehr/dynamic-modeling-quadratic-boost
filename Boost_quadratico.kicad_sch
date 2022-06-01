@@ -3494,7 +3494,7 @@
     (uuid cecc665e-2bd5-4044-bcc4-ddbcee6ca25c)
     (default_instance (reference "X") (unit 1) (value "Ammeter Compact") (footprint ""))
     (property "Reference" "X" (id 0) (at 135.89 120.65 90)
-      (effects (font (size 1.27 1.27)))
+      (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Ammeter Compact" (id 1) (at 148.59 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
