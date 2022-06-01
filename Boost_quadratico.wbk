@@ -1,0 +1,10 @@
+1
+9
+.tran 100ns 10ms uic
+2
+1
+/mmgs_vmid1
+V
+1
+/vmid1
+V
